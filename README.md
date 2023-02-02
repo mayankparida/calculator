@@ -1,16 +1,31 @@
-# calculator
+<h1 align="center">
+    🚀 Calculator Application - GetX
+</h1>
 
-A new Flutter project.
+<h2 align="center">Built using: </h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
-## Getting Started
+## Preview for the Application 🚀
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/68542629/216445510-4fcd8dc2-cfe9-4223-a62d-6b462d53a0ea.png" width="275"> 
 
-A few resources to get you started if this is your first Flutter project:
+## 👨‍💻 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+:white_check_mark: Application that alows all calculations and operations like addition, subtraction, multiplication, division, positive & nrgative and an option to clear.\
+:white_check_mark: Uses GetX State Management Approach\
+:white_check_mark: Maintain history of last 10 calculations\
+:white_check_mark: Elegant dark UI.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Prerequisites:
+For running this script you'll need:
+* Visual Studio Code
+* Android Emulator (In Android Studio) or Android device
+* Flutter Plugin
+
+## ⚙️ Flutter Packages Used
+
+- `get: ^4.6.5` - To implement GetX state management tool.
+- `shared_preferences: ^2.0.17` - To store calculation history.
